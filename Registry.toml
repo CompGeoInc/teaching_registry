@@ -1,0 +1,6 @@
+name = "TeachingRegistry"
+uuid = "e0ac9ab7-178d-4d3a-a0e9-4eb91d077dfa"
+repo = "git@github.com:CompGeoInc/teaching_registry.git"
+description = "Public registry for learning about the package manager"
+
+[packages]
