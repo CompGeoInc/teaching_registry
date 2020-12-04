@@ -4,3 +4,4 @@ repo = "git@github.com:CompGeoInc/teaching_registry.git"
 description = "Public registry for learning about the package manager"
 
 [packages]
+2f86985e-7aa0-4cfd-87c1-e14ea15ab492 = { name = "Hello", path = "H/Hello" }

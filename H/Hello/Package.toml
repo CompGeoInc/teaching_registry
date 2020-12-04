@@ -1,0 +1,4 @@
+name = "Hello"
+uuid = "2f86985e-7aa0-4cfd-87c1-e14ea15ab492"
+repo = "git@github.com:CompGeoInc/Hello.git"
+subdir = "Hello"
